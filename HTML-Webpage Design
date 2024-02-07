@@ -1,0 +1,28 @@
+< DOCTYPE html>
+<html lang "en">
+<head>
+   <title>Webpage Design </title>
+    <link rel="stylesheet" href="style.css">
+ </head> 
+ <body>
+
+   <img class="gsu" src="gssu.png">
+
+   <div class="main">
+   	 <div class="icon">
+   	 	<h2 class="logo">Guimars<br>State <br> University</h2>
+
+   	  <div class="menu">	
+   	  	<ul>
+         <li> <a href="#">HOME</a> </li>	
+         <li>
+          <a href="#">ABOUT <i class="fas fa-caret-down"></i> </a>
+
+          <div class="dropdown_menu">	
+          <ul>
+          	 <li> <a href="#">Mission</a> </li>
+          	  <li> <a href="#">Vision</a> </li>
+          	   <li> <a href="#">Core</a> </li>
+          </ul>	
+   	  	</ul>
+   </div>
